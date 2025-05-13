@@ -26,7 +26,7 @@ This project was created as my first hands-on attempt to learn Unreal Engine's b
 - `Config/` – Game and engine settings
 - `WreckIt.uproject` – Main project file
 
-Unnecessary folders like `Saved/`, `Intermediate/`, and `Binaries/` are excluded via `.gitignore`.
+Unnecessary folders like `Saved/`, `Intermediate/`, and are excluded via `.gitignore`.
 
 
 
