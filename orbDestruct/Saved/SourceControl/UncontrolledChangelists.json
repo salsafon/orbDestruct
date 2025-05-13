@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/brktb/Documents/Unreal Projects/tutorials/WreckIt/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/brktb/Documents/Unreal Projects/tutorials/WreckIt/Content/StarterContent/Maps/Minimal_Default.umap",
+				"C:/Users/brktb/Documents/Unreal Projects/tutorials/WreckIt/Content/BP_projectile.uasset",
+				"C:/Users/brktb/Documents/Unreal Projects/tutorials/WreckIt/Content/mainMap.umap",
+				"C:/Users/brktb/Documents/Unreal Projects/tutorials/WreckIt/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"C:/Users/brktb/Documents/Unreal Projects/tutorials/WreckIt/Content/BP_Barrel.uasset"
+			]
+		}
+	]
+}
