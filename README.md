@@ -51,6 +51,6 @@ This project helped me understand:
 - How to create a basic UE5 project from scratch
 - Using blueprint scripting for player input and physics
 - Setting up a simple scene with movable objects
-- Working with .gitignore and pushing to GitHub
+- Learning to organize Unreal Engine projects properly for version control
 
 
