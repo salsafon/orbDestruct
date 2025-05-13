@@ -1,6 +1,6 @@
 # orbDestruct
 
-> My first Unreal Engine project – a physics sandbox where you launch metal spheres to mess with the environment.
+My first Unreal Engine project – a physics sandbox where you launch metal spheres to mess with the environment.
 
 ## Overview
 
