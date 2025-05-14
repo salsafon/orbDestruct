@@ -55,4 +55,5 @@ This project helped me understand:
 
 ## 🎮 Demo
 
-[Watch the gameplay demo](https://youtu.be/K6059y2qcBM)
+[![Watch the demo](https://img.youtube.com/vi/K6059y2qcBM/0.jpg)](https://www.youtube.com/watch?v=K6059y2qcBM)
+
