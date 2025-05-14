@@ -53,4 +53,6 @@ This project helped me understand:
 - Setting up a simple scene with movable objects
 - Learning to organize Unreal Engine projects properly for version control
 
+## 🎮 Demo
 
+[Watch the gameplay demo](https://youtu.be/K6059y2qcBM)
